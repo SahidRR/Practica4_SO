@@ -1,0 +1,20 @@
+# Carpeta de resultados de imágenes generadas
+imagenes_tactiles/
+*.png
+
+# Ejecutables compilados de C++
+cliente_tactil
+*.o
+
+# Archivos ocultos del sistema macOS
+.DS_Store
+
+# Archivos temporales o caché de Python
+__pycache__/
+*.pyc
+
+# Configuraciones locales del editor de código
+.vscode/
+
+# Archivos binarios o documentos de referencia (instrucciones)
+*.pdf
